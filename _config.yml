@@ -2,6 +2,7 @@ title: Pod
 description: Pod is an alternative launcher for Risk of Rain Modloader (RoRML).
 logo: /assets/img/logo.png
 
+show_downloads: true
 project_links:
 - zip_url: "https://gitlab.com/noneNA/pod/-/archive/master/pod-master.zip"
 - flatpak: "https://none-na.github.io/pod-pages/"
