@@ -10,7 +10,8 @@ gitlab:
 - is_project_page: true
 - owner_name: "none"
 - owner_url: "https://gitlab.com/noneNA"
-- repository_nwo: "https://gitlab.com/noneNA/pod"
+- repository_url: "https://gitlab.com/noneNA/pod"
+- repository_nwo: "noneNA/pod"
 
 show_downloads: true
 project_links:
